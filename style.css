@@ -251,7 +251,7 @@ a { color: inherit; text-decoration: none; }
 /* ========== GRIDS ========== */
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 40px; align-items: center; }
-.conteneur-images-verticale-2 {
+.conteneur-image-verticale-2 {
   display: flex;
   flex-direction: column; /* Aligne les images verticalement */
   gap: 10px;              /* Ajoute un espace entre les deux images */
